@@ -1,0 +1,11 @@
+{
+  "name": "index.html",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "da",
+  "scripts": {
+    "test": "d"
+  },
+  "author": "",
+  "license": "ISC"
+}
